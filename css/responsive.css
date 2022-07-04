@@ -1,0 +1,66 @@
+@media(max-width:575px){
+    .half-content h2 {
+        font-size: 17px;
+        line-height: 18px;
+    }
+    .half-content h1 {
+        font-size: 24px;
+        line-height: 40px;
+    }
+    .container {
+        padding: 0px 25px;
+    }
+    .half-img img , .dream-img img{
+        width: 100%;
+    }
+    .half-content h3 {
+        font-size: 11px;
+    }
+    .half-content p {
+        line-height: 20px;
+        font-size: 12px;
+    }
+     .half-img{
+        width: 35%;
+    }
+    .left-content{
+        width: 65%;
+    }
+    .left-content a {
+        padding: 1px 13px;
+        font-size: 15px;
+    }
+    .dream-img{
+        width: 30%;
+    }
+    .single-service {
+        width: 71%;
+        margin-bottom: 30px;
+    }
+    .title h3{
+        font-size: 24px;
+        margin-bottom: 40px;
+        line-height: 0.8;
+    }
+    section {
+        padding-bottom: 50px;
+    }
+    .single-service a {
+        font-size: 18px;
+    }
+}
+/* footer responsive */
+@media(max-width:575px){
+    .follow-us, 
+.pages,
+ .contact {
+	width: 90%;
+    margin-bottom: 50px;
+}
+.contact{
+    margin-bottom: 0px;
+}
+footer .container{
+    display: block;
+}
+}
